@@ -1,7 +1,10 @@
 RailsPacific Chef & Immutable Infrastructure Workshop
 ==========================
 
-This is intended to be use with [RailsPcific](http://railspacific.com) workshop “Chef & Immutable Infrastructure”.
+This is intended to be used with [RailsPcific](http://railspacific.com) workshop “Chef & Immutable Infrastructure”.
+
+Slides are available on [SpeakerDeck]([https://speakerdeck.com/dlackty/chef-and-immutable-infrasturcture](https://speakerdeck.com/dlackty/chef-and-immutable-infrasturcture)).
+
 
 ## Exercises
 
